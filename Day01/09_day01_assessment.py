@@ -1,0 +1,6 @@
+number1=float(input("Enter the first number:"))
+number2=float(input("Enter the second number:"))
+print("Sum=",number1+number2)
+print("Difference:",number1-number2)
+print("Product:",number1*number2)
+print("Remainder:",number1%number2)
